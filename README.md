@@ -7,4 +7,4 @@ You can find the Heroku connect example and other examples to connect with Sales
 - [Sign up fo Free](https://signup.heroku.com/trailhead)
 - Create the App on the Heroku dashboard
 - Follow steps from the **Deploy** section
-![img.png](img.png)
+![img.png](public/img/heroku-deployment.png)
