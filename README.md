@@ -8,3 +8,6 @@ You can find the Heroku connect example and other examples to connect with Sales
 - Create the App on the Heroku dashboard
 - Follow steps from the **Deploy** section
 ![img.png](public/img/heroku-deployment.png)
+  
+## Setup you Environment variables from the CLI 
+`heroku config:set MESSAGE=My new message -a heroku-connect-ascendix-demo` -a flag for your APP name
