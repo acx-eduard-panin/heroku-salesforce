@@ -9,5 +9,8 @@ You can find the Heroku connect example and other examples to connect with Sales
 - Follow steps from the **Deploy** section
 ![img.png](public/img/heroku-deployment.png)
   
-## Setup you Environment variables from the CLI 
+## Setup your Environment variables from the CLI 
 `heroku config:set MESSAGE=My new message -a heroku-connect-ascendix-demo` -a flag for your APP name
+
+## [Configure Heroku Connect](https://devcenter.heroku.com/articles/heroku-connect#setting-up-heroku-connect)
+- Update the `.env` file to connect this APP for your Postgres DB
