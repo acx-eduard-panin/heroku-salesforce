@@ -3,4 +3,3 @@ IlluminatedCloud
 .idea
 heroku-salesforce.iml
 /**/node_modules/*
-/heroku-connect-ascendix-demo/node_modules/
