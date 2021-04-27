@@ -1,0 +1,14 @@
+{
+  "swagger": "2.0",
+  "swaggerDefinition": {
+    "openapi": "3.0.1",
+    "info": {
+      "title": "Heroku Sample App",
+      "version": "1.0.0"
+    },
+    "basePath": "/"
+  },
+  "apis": [
+    "./web-service/routes/data.js"
+  ]
+}
