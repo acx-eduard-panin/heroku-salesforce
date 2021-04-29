@@ -9,14 +9,14 @@ You can find the Heroku connect example and other examples to connect with Sales
 - Follow steps from the **Deploy** section
 ![img.png](public/img/heroku-deployment.png)
   
-## Setup your Environment variables from the CLI 
+## Set up your Environment variables from the CLI 
 - Connect your Heroku Account to CLI
 ```
 heroku login
 ```
 - Update Environment variables via CLI (-a your app alias)
 ```
-heroku config:set MESSAGE=My new message -a heroku-connect-ascendix-demo
+heroku config:set MESSAGE="My new message" -a heroku-connect-ascendix-demo
 ```
 - How to see Log in real time
 ```
